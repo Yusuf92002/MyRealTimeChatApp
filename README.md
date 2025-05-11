@@ -41,7 +41,7 @@ A real-time chat application built with Spring Boot and WebSocket that enables m
 The following screenshots demonstrate a live chat session with three users (Youssef Tarek, Ahmed Shokr, and Ahmed Khaled) interacting in real-time:
 
 #### Active Chat Session
-![Chat Session](https://github.com/user-attachments/assets/9d55631f-c30c-4424-bee6-80876b37cc9e)
+![Chat Session](https://github.com/user-attachments/assets/d26f1171-1336-4be6-bc4e-e05bbf2c5f35)
 *Screenshot shows three users actively participating in the chat. Each user has a unique avatar with their initial letter (Y, A) in a blue circle. The chat displays join notifications and messages exchanged between users, demonstrating the real-time messaging capability.*
 
 Key features visible:
@@ -52,7 +52,7 @@ Key features visible:
 - Responsive chat interface
 
 #### User Departure Notification
-![User Left Notification](https://github.com/user-attachments/assets/49a0263a-ec99-4492-8b30-b1901aacba24)
+![User Left Notification](https://github.com/user-attachments/assets/c5d95a85-dfa7-4abb-9272-4daaf998b285)
 *Screenshot demonstrates the user departure notification feature, showing the "Youssef Tarek left!" message, indicating when users disconnect from the chat.*
 
 Features demonstrated:
